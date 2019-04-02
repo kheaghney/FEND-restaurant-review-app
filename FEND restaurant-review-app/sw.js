@@ -4,6 +4,7 @@ let urlsToCache = [
   
 
 './',
+'https://unpkg.com/leaflet@1.3.1/dist/leaflet.js',
 				'./index.html',
 				'./restaurant.html',
 				'./css/styles.css',
